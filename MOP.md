@@ -6,9 +6,11 @@
 2. Create a New Branch
 3. Publish Branch to Github
 
-
-## Technical Tasks 
+## Technical Tasks
 
 Using the containers folder and the app.js file, you will be creating a number of react components to perform different tasks. You may also be required to answer questions about basic code operations such as sorting/filtering arrays, parsing strings, etc.
 
-1. 
+## Closedown Tasks
+
+1. Push up all changes to github
+2. Create a pull request
